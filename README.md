@@ -1,2 +1,2 @@
-# Smart-Home-Kodel-ypa
+# Smart-Home-Kodeloypa
 Smart home with Apple HomeKit
